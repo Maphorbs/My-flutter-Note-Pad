@@ -1,21 +1,16 @@
-# My-flutter-Note-Pad
-A Flutter App, create for taking note that uses sqflite for storage.
+# notepadt
 
-# Features
-1. Animated UI: A beautiful, minimalist user interface with subtle animations.
-2. Dark mode: Light and dark theme variants.
-3. Mark notes as important: Mark notes as important and filter them.
-4. Search: Search your notes.
-5. Edit note: Edit note that you saved previously
-6. Share: Share note using any app that can share text.
+A new Flutter application.
 
-# Dependencies
+## Getting Started
 
-* outline_material_icons: ^0.1.0
-* sqflite: ^1.1.5
-* intl: ^0.15.8
-* url_launcher: ^5.0.3
-* shared_preferences: ^0.5.3+1
-* share: ^0.6.1+1
+This project is a starting point for a Flutter application.
 
-Credit To roshanrahman
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
